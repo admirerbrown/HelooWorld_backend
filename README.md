@@ -12,7 +12,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello Rails React ](#-hello-rails-react-)
+- [📖 Hello Rails Backend ](#-hello-rails-backend-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -21,6 +21,7 @@
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
+    - [Link to React FrontEnd](#link-to-react-frontend)
   - [👥 Authors](#-authors)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -63,8 +64,8 @@ In order to run this project you need:
 - Install Yarn
 - Understanding of Ruby
 
-### Setup
 
+### Setup
 - Clone this repository to your desired folder:
 
 ```sh
@@ -98,6 +99,9 @@ In order to run this project you need:
 ```sh
  rails server
 ```
+
+### Link to React FrontEnd 
+`https://github.com/admirerbrown/helloworld_frontend`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
