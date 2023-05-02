@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Rails React <a name="about-project"></a>
+# 📖 Hello Rails Backend <a name="about-project"></a>
 
 Hello Rails React is an tutorial for react and rails in a single project.
 
